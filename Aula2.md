@@ -47,4 +47,20 @@ Exercicio 5
 5.5- Does the system store data
 
 
-w
+Exercicio 6
+ This is a text talking abount my programming routine, i dont have a routine, as someone with ADHD
+  it just does work, but when i have free time i like to mess with some projects (not like i 
+  finish many anyways), one ive been working on for a while is a kind of a fnaf game, thought its 
+  only terminal based for now, where you need to fend of the animatronics while trying to survive
+ until the counter ends (defined on the first 3 nights, but needs to be chosen on custom night),
+ ive been changing some bits to make my ideal kind of game, for that one i thought about a normal
+  fnaf, the twist being a thunderstorm arrived and the thunders may overcharge the animatronics 
+  making them more active, until the point they get deactivated(overcharged past theit limit),
+  its a bit simple since it i didnt want to make the gameplay too complex, so it only has 1 door,
+  so the game basically consists of the animatronics advancing (normal fnaf gameplay), you can 
+  check everyones position, close the door, do both, do nothing or change the fuse in the case
+  a thunder blows the fuse while you try to fend of the animatronics, i also wanted to do a harder 
+  mode, so you can deactivate the message where animatronics are ready to attack, and the
+ animatronics AI is basically a if else checking with a Math Random and comparing it to its level,
+ also, the thunder increases the animatronics level, so if there are too many thunders they can 
+ get to a really high level, but if they get overchared they slowly reset to their original level.
